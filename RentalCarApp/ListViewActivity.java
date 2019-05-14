@@ -1,26 +1,4 @@
-package txstate.edu.amb309.rentalcarapp;
-
-import android.app.ListActivity;
-import android.content.Intent;
-import android.content.SharedPreferences;
-import android.os.Bundle;
-import android.preference.PreferenceManager;
-import android.view.View;
-import android.widget.ArrayAdapter;
-import android.widget.ListView;
-
-import com.loopj.android.http.JsonHttpResponseHandler;
-
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
-
-import cz.msebera.android.httpclient.Header;
-import cz.msebera.android.httpclient.message.BasicHeader;
+package [your package name here];
 
 public class ListViewActivity extends ListActivity {
 
