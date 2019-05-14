@@ -1,14 +1,4 @@
-package txstate.edu.amb309.rentalcarapp;
-
-import android.content.Context;
-
-import com.loopj.android.http.AsyncHttpClient;
-import com.loopj.android.http.AsyncHttpResponseHandler;
-import com.loopj.android.http.RequestParams;
-import com.loopj.android.http.ResponseHandlerInterface;
-
-import cz.msebera.android.httpclient.Header;
-import cz.msebera.android.httpclient.HttpEntity;
+package [your package name here];
 
 public class RestAPIClient {
     private static final String BASE_URL = "https://rentalcarapp-anhbui.firebaseio.com/";
