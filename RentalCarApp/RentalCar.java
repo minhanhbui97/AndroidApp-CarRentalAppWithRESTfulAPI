@@ -1,6 +1,4 @@
-package txstate.edu.amb309.rentalcarapp;
-
-import org.json.JSONObject;
+package [your package name here];
 
 public class RentalCar {
     private int id;
