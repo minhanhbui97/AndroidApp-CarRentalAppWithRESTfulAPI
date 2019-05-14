@@ -1,26 +1,4 @@
-package txstate.edu.amb309.rentalcarapp;
-
-import android.content.Intent;
-import android.content.SharedPreferences;
-import android.preference.PreferenceManager;
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
-import android.widget.EditText;
-import android.widget.TextView;
-import android.widget.Toast;
-
-import com.loopj.android.http.TextHttpResponseHandler;
-
-import org.w3c.dom.Text;
-
-import java.text.DecimalFormat;
-
-import cz.msebera.android.httpclient.Header;
-import cz.msebera.android.httpclient.entity.StringEntity;
-import cz.msebera.android.httpclient.message.BasicHeader;
-import cz.msebera.android.httpclient.protocol.HTTP;
+package [your package name here];
 
 public class UpdateCostActivity extends AppCompatActivity {
 
